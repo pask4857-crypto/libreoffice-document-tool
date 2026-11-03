@@ -1,0 +1,9 @@
+# LibreOffice temporary lock files
+.~lock.*
+
+# Generated customer documents
+/Customer_*.odt
+!/customer_template.odt
+
+# Backup files
+*.bak
